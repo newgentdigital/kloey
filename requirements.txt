@@ -1,0 +1,5 @@
+discord.py
+psutil
+requests
+aiomysql
+jishaku
