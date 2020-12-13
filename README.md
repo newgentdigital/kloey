@@ -25,9 +25,9 @@ Stop working hard. Your workflow deserves more respect.
 
 <!-- ALERT -->
 ## ⚠️ Read Me
-**This repository [(newgentdigital/kloey-code)](https://github.com/newgentdigital/kloey-code) is used for one reason, storing the code behind Kloey. Any requests you need/want to make related to Kloey should be done [here](https://github.com/newgentdigital/kloey/issues).**
+**This repository [(newgentdigital/kloey)](https://github.com/newgentdigital/kloey) is used for one reason, creating reports and requests regarding Kloey. Any code changes you want to make related to Kloey will not be accepted.**
 
-This bot was originally commissioned by the members of management at Newgent Digital to replace the previously used bot, [Corebot](https://corebot.dev). This action was done in the attempt to get a more feature-rich system with more customizability in the long-run.
+This bot was originally commissioned by the members of management at Newgent Digital to replace the previously used bot. This action was done in the attempt to get a more feature-rich system with more customizability in the long-run.
 
 <!-- SHORTCUTS -->
 ## Shortcuts
