@@ -14,7 +14,7 @@
 </p>
 
 <!-- ABOUT -->
-## newgentdigital/kloey-code
+## newgentdigital/kloey
 Kloey is a Discord bot designed and developed to be used by the employees at Newgent Digital & Co. The sole intent of Kloey the Discord bot is to make communications and interactions between customer and employees more efficent and easy then before.
 
 Stop working hard. Your workflow deserves more respect.
