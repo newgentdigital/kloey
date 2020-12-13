@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align=center>
   <a href="https://newgentdigital.com">
-    <img src="https://i.ibb.co/DVBr6d0/Custom-Size-1.png" alt="A graphics design containing the logomark for Newgent Digitals Discord bot Kloey.">
+    <img src="https://i.ibb.co/X5Xtpjy/dsadsadasdasd.png" alt="A graphics design containing the logomark for Newgent Digitals Discord bot Kloey.">
   </a>
 </p>
 
