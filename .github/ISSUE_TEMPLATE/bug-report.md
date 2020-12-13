@@ -4,7 +4,7 @@ about: For reporting code or design bugs.
 ---
 
 ### Background (please fill out the following information):
-- Bot Build/Version
+- Bot Build/Version:
 
 ### Describe the bug
 > A clear and concise description of what the bug is.
