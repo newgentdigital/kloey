@@ -1,6 +1,7 @@
 ---
 name: "Bug Report"
 about: For reporting code or design bugs.
+labels: bug
 ---
 
 ### Background (please fill out the following information):
