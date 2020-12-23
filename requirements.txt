@@ -3,4 +3,3 @@ psutil
 requests
 aiomysql
 jishaku
-requests
