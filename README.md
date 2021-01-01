@@ -20,8 +20,10 @@ Kloey is a Discord bot designed and developed to be used by the employees at New
 Stop working hard. Your workflow deserves more respect.
 
 <!-- STATUS -->
-## Status Page
-Is the bot offline or malfunctioning in an oddly specific way? Feel free to check out [status.newgentcloud.com](https://status.newgentcloud.com/) before reporting the issue to us. It's likely that our team might've already noticed the issue and working hard for a fix.
+## 📡 Current Status
+Is the bot offline or malfunctioning in an oddly specific way? Feel free to check out [status.newgentcloud.com](https://status.newgentcloud.com/) before reporting the issue to us. 
+
+For more information on this, please visit: https://github.com/newgentdigital/kloey/wiki/Current-Status
 
 <!-- IMAGE -->
 <p align=center>
@@ -29,19 +31,19 @@ Is the bot offline or malfunctioning in an oddly specific way? Feel free to chec
 </p>
 
 <!-- ALERT -->
-## ⚠️ Read Me
+## ⚠️ Notice
 **This repository [(newgentdigital/kloey)](https://github.com/newgentdigital/kloey) is used for one reason, creating reports and requests regarding Kloey. Any code changes you want to make related to Kloey will not be accepted.**
 
 This bot was originally commissioned by the members of management at Newgent Digital to replace the previously used bot. This action was done in the attempt to get a more feature-rich system with more customizability in the long-run.
 
 <!-- SHORTCUTS -->
-## Shortcuts
+## 🔧 Shortcuts
 - [Kloey Documentation](https://github.com/newgentdigital/kloey/wiki)
 - [Kloey Issues and Requests](https://github.com/newgentdigital/kloey/issues)
 - [Kloey Security Policy](https://github.com/newgentdigital/kloey/security/policy)
 
 <!-- LICENSE -->
-## License
+## ⚖️ License
 ```
 Creative Commons Legal Code
 
