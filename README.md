@@ -19,6 +19,11 @@ Kloey is a Discord bot designed and developed to be used by the employees at New
 
 Stop working hard. Your workflow deserves more respect.
 
+<!-- STATUS -->
+## Status Page
+Is the bot offline or malfunctioning in an oddly specific way? Feel free to check out [status.newgentcloud.com](https://status.newgentcloud.com/) before reporting the issue to us. It's likely that our team might've already noticed the issue and working hard for a fix.
+
+<!-- IMAGE -->
 <p align=center>
   <img src="https://i.ibb.co/zN7VmDm/terminal.png" alt="An emulated terminal showing the bootup process of Kloey.">
 </p>
