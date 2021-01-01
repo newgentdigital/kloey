@@ -15,7 +15,7 @@
 
 <!-- ABOUT -->
 ## newgentdigital/kloey
-Kloey is a Discord bot designed and developed to be used by the employees at Newgent Digital & Co. The sole intent of Kloey the Discord bot is to make communications and interactions between customer and employees more efficent and easy then before.
+Kloey is a Discord bot designed and developed to be used by the employees at Newgent Digital & Co. Kloey's sole intent is to make communications and interactions between customers and employees more efficient and easy than before.
 
 Stop working hard. Your workflow deserves more respect.
 
@@ -34,7 +34,7 @@ For more information on this, please visit: https://github.com/newgentdigital/kl
 ## ⚠️ Notice
 **This repository [(newgentdigital/kloey)](https://github.com/newgentdigital/kloey) is used for one reason, creating reports and requests regarding Kloey. Any code changes you want to make related to Kloey will not be accepted.**
 
-This bot was originally commissioned by the members of management at Newgent Digital to replace the previously used bot. This action was done in the attempt to get a more feature-rich system with more customizability in the long-run.
+The members of management originally commissioned this bot at Newgent Digital to replace the previously used bot. This action was done to get a more feature-rich system with more customizability in the long-run.
 
 <!-- SHORTCUTS -->
 ## 🔧 Shortcuts
@@ -168,4 +168,4 @@ express Statement of Purpose.
     this CC0 or use of the Work.
 ```
 
-Some of the dependencies and other assets used thru out the software are licensed under different licenses than a ``CC0-1.0`` license. Please check with the respective rights holders for more information.
+Some of the dependencies and other assets used throughout the software are licensed under different licenses than a ``CC0-1.0`` license. Please check with the respective rights holders for more information.
