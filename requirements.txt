@@ -3,3 +3,5 @@ psutil
 requests
 aiomysql
 jishaku
+chat_exporter
+buttons
